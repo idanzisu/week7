@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  color:#AE0D7A;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  font-variant: small-caps;
+  font-size: 400%;
+  font-kerning: auto;
+}
+
+h2 {
+
+color: #2E3409;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+font-variant: small-caps;
+font-size: 200%;
+
+}
+
+h3 {
+
+color: #2E3409;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+font-variant: small-caps;
+font-size: 150%;
+
+}
+
+h4 {
+
+color: #AE0D7A;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+font-variant: small-caps;
+font-size: 150%;
+
+}
+.App-header {
+  background-color: #CBE432;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #A2B814;
+}
+
+div.time {
+  color:#A2B814;
+  font-family: monospace;
+  font-size: 400%;
+}
+
+div.App {
+  padding: 100px;
+  margin: 100px;
+  background-color:#F7D4EC;
+}
